@@ -1,2 +1,5 @@
-# app-dev
-My first repository.
+---
+### Group Members:
+* **Oruga, Jonathan D.**
+* **Malaque, Sean Vincent**
+* **Tordecilla, Edgel**
